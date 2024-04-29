@@ -1,0 +1,17 @@
+/* ChatMessage.css */
+.message-card {
+    max-width: 70%;
+    margin-bottom: 10px;
+  }
+  
+  .own-message {
+    margin-left: auto;
+    background-color: #e0f7fa;
+  }
+  
+  .message-actions {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 10px;
+  }
+  
